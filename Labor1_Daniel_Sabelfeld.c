@@ -36,6 +36,8 @@ int main()
     
     
     printf("\nAufgabe 2\n\n");
+    printf("Dieser Text\nenthaelt\nviele\nZeilenumbrueche");
+    
     printf(". (Punkt)\n- (Minuszeichen)\n` (Hochkomma)\n& (Kaufmanns-„Und“)\n/ (Slash)\n\\ (Backslash)\n_ (Unterstrich)\n| (Strich)\n( (Klammer auf)\n) (Klammer zu)\n\" (Anführungsstriche)\n` (einfacher Anführungsstrich)\no (kleines o)\n\n");
     printf("Aufgabe 3\n");
     printf("      .-'&    '-.\n");
